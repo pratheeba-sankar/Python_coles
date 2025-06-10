@@ -1,0 +1,4 @@
+behave
+playwright
+openpyxl
+allure-behave
